@@ -1,7 +1,6 @@
 # Udacity-Android-Project-4-Build-it-Bigger
-This is the fourth project in Udacity's Android Nanodegree.
+This is the fourth project in Udacity's Android Nanodegree.  
 It demonstrates the ability to do the following:  
-
 *Add free and paid flavors to an app, and set up a build to share code between them  
 *Factor reusable functionality into a Java library  
 *Factor reusable Android functionality into an Android library  
